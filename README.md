@@ -6,6 +6,9 @@ Terminology Services 4 NFDI (TS4NFDI) is a cross domain service for the provisio
 ## Website
 More information on the website [base4nfdi.de](https://base4nfdi.de/projects/ts4nfdi)
 
+## Terminology Suite Documentation
+https://ts4nfdi.github.io/terminology-service-suite/comp/latest/?path=/docs/overview--docs
+
 ## License
 This repository is licenced under the Creative Commons [CC-BY-SA-4.0 licence](https://creativecommons.org/licenses/by-sa/4.0/).
 
